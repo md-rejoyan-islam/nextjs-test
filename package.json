@@ -1,0 +1,11 @@
+{
+ "name": "kin",
+ "version": "0.1.0",
+ "private": true,
+ "scripts": {
+  "start": "next start"
+ },
+ "dependencies": {
+  "next": "13.4.19"
+ }
+}
